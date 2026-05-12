@@ -1,5 +1,6 @@
 /*.iml
 .idea/
+.vscode/
 
 # Created by https://www.gitignore.io/api/maven,eclipse,intellij,netbeans,osx,windows,notepadpp,windows,java
 
